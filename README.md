@@ -1,4 +1,4 @@
-# Workshop 2 - Despliegue de Aplicaciones con Cloud Foundry
+# Workshop 2 - Despliegue de Aplicaciones en Cloud Foundry
 
 En este Workshop se va a desarrollar un ejemplo para aprender como correr, modificar e implementar una aplicación con una base de datos Cloudant en la nube de IBM. Se explorará el método de despliegue con la interfaz gráfica de Cloud Foundry, y una vez finalizado, la aplicación será accesible desde internet. 
 
