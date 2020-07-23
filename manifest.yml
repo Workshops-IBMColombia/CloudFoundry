@@ -2,5 +2,3 @@
 applications:
 - name: sample-nodejs-cloudant
   memory: 128M
-  services:
-  - mycloudant-alias
